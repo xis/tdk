@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-pip install tdk_w
+pip install tdk-w
 ```
 
 ## Usage
