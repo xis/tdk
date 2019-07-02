@@ -1,3 +1,3 @@
-from tdk import new_word
-word = new_word("şarap")
+from tdk import tdk
+word = tdk.new_word("şarap")
 print(word.meaning())
