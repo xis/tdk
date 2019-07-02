@@ -1,2 +1,3 @@
-import tdk
-print(tdk.search_all_data("şarap"))
+from tdk import new_word
+word = new_word("şarap")
+print(word.all_data())
