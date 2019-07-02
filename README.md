@@ -5,15 +5,15 @@
 
 ## Installation
 ```bash
-pip install tdk-w
+pip install tdk-fetch
 ```
 
 ## Usage
 ```python
-from tdk import new_word
+from tdk import tdk
 
 # create new word
-word = new_word("şarap")
+word = tdk.new_word("şarap")
 # prints meaning of the word
 print(word.meaning())
 # prints all the word's data
