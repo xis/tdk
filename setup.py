@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="tdk_w",
+    name="tdk-fetch",
     version="1.0.0",
     author="Enes Furkan Olcay",
     author_email="dandikbirdalga@gmail.com",
