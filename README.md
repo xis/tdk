@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-pip install tdk-fetch
+pip install tdk-search
 ```
 
 ## Usage
